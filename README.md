@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VIMAL KUMAR</h1>
+<h1 align="center">Hi 👋, I'm VIMAL GAUTAM</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalkumar5572&label=Profile%20views&color=0e75b6&style=flat" alt="vimalkumar5572" /> </p>
