@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vimalkumar5572](https://github.com/vimalkumar5572)
 
-- 💬 Ask me about **SQL PYTHON EXCEL**
+- 💬 Ask me about **SQL PYTHON(Numpy, Pandas, matplotlib, Sk-learn) Advance EXCEL**
 
 - 📫 How to reach me **VIMALKUMARJI112@GMAI.COM**
 
